@@ -1,0 +1,3 @@
+/home/munzer/spinning_apples/build/CMakeFiles/spinning_apples.dir
+/home/munzer/spinning_apples/build/CMakeFiles/edit_cache.dir
+/home/munzer/spinning_apples/build/CMakeFiles/rebuild_cache.dir
